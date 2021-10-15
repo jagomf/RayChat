@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992071925438",
+    "project_id": "raychat-jago",
+    "storage_bucket": "raychat-jago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992071925438:android:53c9452a66742c1c67e8ef",
+        "android_client_info": {
+          "package_name": "com.lunadevel.raychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992071925438-kdu14i5hg6t6f2gpr9rkgvnkmmia3kfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwS_Qj7hOXyxJC5esrRaYjCvQEh4SPT44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992071925438-kdu14i5hg6t6f2gpr9rkgvnkmmia3kfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
